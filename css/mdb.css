@@ -2635,7 +2635,7 @@
 .z-depth-2, .section img, .section .view, .nav-tabs, .card-overlay, .card-cascade .view, .card-cascade-2 .view, .colorful-select .dropdown-content li a:hover,
 .colorful-select .dropdown-content li span:hover, .dropdown .dropdown-menu .dropdown-item:hover, .comments-list img,
 .reply-form img, .section-blog-fw .view, .testimonial-carousel .testimonial .avatar img {
-  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 .z-depth-3 {
@@ -7516,7 +7516,7 @@ textarea.md-textarea + label:after {
 }
 
 label {
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   color: darken #ccc, 90%;
 }
 
@@ -7584,6 +7584,7 @@ label {
   -o-transition: color 0.2s;
   -ms-transition: color 0.2s;
   transition: color 0.2s;
+  padding-left:2%;
 }
 
 .md-form .prefix.active {
@@ -13822,7 +13823,7 @@ button.toast-close-button {
 }
 
 .green-skin .navbar {
-  background-color: #003830;
+  background-color: white;
 }
 
 .green-skin .page-footer {
@@ -16016,7 +16017,7 @@ button.picker__close:focus {
 }
 
 .pricing-card .striped {
-  padding: 0.6rem;
+  padding: 0.2rem;
 }
 
 .pricing-card .striped .fa {
